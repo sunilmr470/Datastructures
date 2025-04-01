@@ -8,5 +8,5 @@ Datastructures:
 * ``Hashmaps``
 * ``Binary Trees``
 * ``Binary Search Trees``
-* ``BSF``
+* ``BST``
 * ``Graphs``
